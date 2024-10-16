@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Journal Posting">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 3859494343 - NamedType 3592808448" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please enter the required %1,field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Process Annual Transactions - NamedType RequiredErr</note>
+        </trans-unit>
+        <trans-unit id="Report 3859494343 - RequestPage 2516438534 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teaching tip title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Process Annual Transactions - RequestPage RequestOptionsPage - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 3859494343 - RequestPage 2516438534 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teaching tip content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Process Annual Transactions - RequestPage RequestOptionsPage - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 3859494343 - Control 3117834186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Process Annual Transactions - Control DocumentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3859494343 - Control 2635466206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expense GL Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Process Annual Transactions - Control ExpenseGLAccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3859494343 - Control 1219813568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fees Income GL Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Process Annual Transactions - Control FeesIncomeGLAccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3859494343 - Control 1306975604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment GL Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Process Annual Transactions - Control PaymentGLAccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3859494343 - Control 138438740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Directly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Process Annual Transactions - Control PostDirectly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3859494343 - Control 497532521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax GL Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Process Annual Transactions - Control TaxGLAccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2272708902 - Action 2157198549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Process Annual Payments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustListExt - Action Process Annual Payments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - Control 2704330142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 337631938">
+          <source>Specifies the value of the Journal Batch Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - Control Journal Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - Control 3684440170 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 337631938">
+          <source>Specifies the value of the Journal Template Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - Control Journal Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3283993485 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CSD User Setup Ext - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3283993485 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CSD User Setup Ext - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
